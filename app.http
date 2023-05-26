@@ -37,7 +37,7 @@ Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZU
 
 ###
 
-GET http://localhost:5000/tweets/2/
+GET http://localhost:5000/tweets/1/
 Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZUJpZGVuIiwiaWF0IjoxNjc5Mjk3OTgzfQ.dDr51N0F19aSGFdK9I6zk4Q9BFkvg8gSbTkFIks5KEE
 
 ###
